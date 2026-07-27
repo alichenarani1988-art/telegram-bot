@@ -14,7 +14,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters, ConversationHandler
 
 # ===================== تنظیمات اولیه (فقط همینجا را ویرایش کنید!) =====================
-TOKEN = "8756645103:AAFILFDh1msJoOSEc3svbOaCWm1WU4_ADQw"           # توکن ربات از @BotFather
+TOKEN = "8756645103:AAGAtnikKFIdTDFM6a_7_QFyUeSfUdioNBY"           # توکن ربات از @BotFather
 ADMIN_ID = 119892235                                            # آیدی عددی شما از @userinfobot
 TMDB_API_KEY = "aaf08d01d1cf90e9381ffd82d5e535da"              # کلید TMDB
 
